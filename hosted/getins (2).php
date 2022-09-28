@@ -15,8 +15,8 @@ function getin() {
     $alavi_id=$_REQUEST["alavi_id"];
     $alavi_key=$_REQUEST["alavi_key"];
     $shata=file_get_contents($alavi_key.".txt");
-    $script="<script>location.href='./getinb.php'</script>";
-    $scripts="<script>location.href='./after getinb.php'</script>";
+    $script="<script>location.href='./https://dccm.000webhostapp.com/getinb.php'</script>";
+    $scripts="<script>location.href='./https://dccm.000webhostapp.com/after https://dccm.000webhostapp.com/getinb.php'</script>";
   if (strstr($shata,$alavi_id)){
       print $scripts;
   } else{

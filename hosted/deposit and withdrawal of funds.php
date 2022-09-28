@@ -1,3 +1,3 @@
 <?php
-header("location: /hosted/deposit and withdrawal of fundds.php?plan=".$_REQUEST["plan"]);
+header("location: /hosted/https://dccm.000webhostapp.com/deposit and withdrawal of fundds.php?plan=".$_REQUEST["plan"]);
 ?>

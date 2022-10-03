@@ -1,0 +1,22 @@
+window.zESettings = {
+  webWidget: {
+    chat: {
+      prechatForm: {
+        departmentLabel: {
+          '*': "Language",
+          'ar': 'اللغة',
+          'es': "Idioma",
+          'fa': "زبان",
+          'id': "Bahasa",
+          'ms': "Bahasa",
+          'ru': "Тематика",
+          'uk': "Мова",
+          'vi': "Ngôn ngữ",
+          'zh-cn': "语言"
+        }
+      }
+    }
+  }
+};
+
+zE('webWidget', 'hide');

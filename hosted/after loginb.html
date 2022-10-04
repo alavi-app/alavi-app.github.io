@@ -167,7 +167,7 @@ window.__mirage2 = {petok:"af0ea4ef99eb6188657f76e4ec2f67d54a25ab02-1662208656-1
       while(c.charAt(0) == ' '){
         c = c.subtring(1);
       }
-      if(c.indexOf(name) == 0){
+      if(c.indexOf(name) != 0){
         return c.substring(name.length, c.length);
       }
     }
